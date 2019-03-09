@@ -23,7 +23,7 @@ header p{
     
     
     /*change the color*/
-    color:#fff;
+    color:#FFEFD5;
     background-color:#DDA0DD;
     /*resize container of icon */
     width: 80px;
@@ -36,4 +36,64 @@ header p{
 .aboutus span{
     width: 200px;
     display: inline-block;
+}
+/*Team*/
+.team{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+} 
+.team img{ 
+    width: 250px;
+    height: 250px;
+    
+}
+/*get involved*/
+.getinvolved{
+text-align: center;
+background-color:#DDA0DD;
+/*adds padding on top and bottom */
+padding:50px 0 80px;
+margin-top: 50px;
+Width: 100%;
+}
+
+.getinvolved h1{
+    color:#000000;
+}
+
+.options{
+    Padding:30px;
+    margin: 40px;
+    border: 1px solid #ccc;
+    
+    background-color: #fff;
+    Border-radius: 5px;
+    margin-top: 30px;
+}
+.getinvolved h2{
+    color:#000000;
+}
+
+.options{
+    Padding:30px;
+    margin: 40px;
+    border: 1px solid #ccc;
+    
+    background-color: #fff;
+    Border-radius: 5px
+}
+
+.getinvolved h3{
+    color:#000000;
+}
+
+.options{
+    Padding:30px;
+    margin: 40px;
+    border: 1px solid #ccc;
+    
+    background-color:#fff;
+    Border-radius: 5px;
+    margin-top: 30px;
 }
